@@ -70,3 +70,11 @@ Total: 65.15
 Sales Taxes: 6.70
 
 Total: 74.68
+
+
+# PROGRAM
+Data input is read from folder input. Run `ruby src/program.rb` for check demo.
+
+Rspec
+
+
