@@ -74,7 +74,10 @@ Total: 74.68
 
 # PROGRAM
 Data input is read from folder input. Run `ruby src/program.rb` for check demo.
+![alt Rspec](https://raw.githubusercontent.com/luongvietdung/SALES_TAXES/master/demo.png)
+
 
 Rspec
 
+![alt Rspec](https://raw.githubusercontent.com/luongvietdung/SALES_TAXES/master/Rspec.png)
 
